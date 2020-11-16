@@ -1,0 +1,46 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT details (user)+>
+<!ATTLIST details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT user (name,phone,location,email)>
+<!ATTLIST user
+  xmlns CDATA #FIXED ''
+  uid CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name 
+xmlns CDATA #FIXED ''>
+
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT alternate_no (#PCDATA)>
+<!ATTLIST alternate_no
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT address (street,city,state)>
+<!ATTLIST address
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT street (#PCDATA)>
+<!ATTLIST street
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT city (#PCDATA)>
+<!ATTLIST city
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT state (#PCDATA)>
+<!ATTLIST state
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT location (#PCDATA)>
+<!ATTLIST location
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email
+  xmlns CDATA #FIXED ''>
