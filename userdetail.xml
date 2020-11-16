@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "userdetails.xsl"?>
+<details>
+   <user uid="01">
+      <name>abarna</name>
+      <phone>9765467345</phone>
+      <alternate_no>9876543210</alternate_no>
+      <address>
+         <street>raj street</street>
+         <city>villupuram</city>
+         <state>villupuram</state>
+      </address>
+      <location>villupuram</location>
+      <email>abarna@gmail.com</email>
+   </user>
+   <user uid="02">
+      <name>raj</name>
+      <phone>9345788710</phone>
+      <alternate_no>9879543210</alternate_no>
+      <address>
+         <street>raja street</street>
+         <city>anna nagar</city>
+         <state>chennai</state>
+      </address>
+      <location>Chennai</location>
+      <email>raj@gmail.com</email>
+   </user>
+   <user uid="03">
+      <name>kavitha</name>
+      <phone>9345788767</phone>
+      <alternate_no>9870543010</alternate_no>
+      <address>
+         <street>roja street</street>
+         <city>gandhipuram</city>
+         <state>coimbatore</state>
+      </address>
+      <location>Coimbatore</location>
+      <email>kavitha@gmail.com</email>
+   </user>
+   <user uid="04">
+      <name>anu</name>
+      <phone>9345546879</phone>
+      <alternate_no>9876547210</alternate_no>
+      <address>
+         <street>kamaraj street</street>
+         <city>thiruparankuram</city>
+         <state>madurai</state>
+      </address>
+      <location>Madurai</location>
+      <email>anu@gmail.com</email>
+   </user>
+   <user uid="05">
+      <name>illiyana</name>
+      <phone>9478782999</phone>
+      <alternate_no>9896543210</alternate_no>
+      <address>
+         <street>gandhi street</street>
+         <city>x Road</city>
+         <state>Erode</state>
+      </address>
+      <location>Erode</location>
+      <email>illi@gmail.com</email>
+   </user>
+   <user uid="06">
+      <name>mani</name>
+      <phone>957889475</phone>
+      <alternate_no>9886543210</alternate_no>
+      <address>
+         <street>raj street</street>
+         <city>thiruvanandhapuram</city>
+         <state>thiruvanandhapuram</state>
+      </address>
+      <location>thiruvanandhapuram</location>
+      <email>mani@gmail.com</email>
+   </user>
+</details>
