@@ -1,0 +1,80 @@
+[
+   {
+      "@uid": "01",
+      "name": "abarna",
+      "phone": "9765467345",
+      "alternate_no": "9876543210",
+      "address": {
+         "street": "raj street",
+         "city": "villupuram",
+         "state": "villupuram"
+      },
+      "location": "villupuram",
+      "email": "abarna@gmail.com"
+   },
+   {
+      "@uid": "02",
+      "name": "raj",
+      "phone": "9345788710",
+      "alternate_no": "9879543210",
+      "address": {
+         "street": "raja street",
+         "city": "anna nagar",
+         "state": "chennai"
+      },
+      "location": "Chennai",
+      "email": "raj@gmail.com"
+   },
+   {
+      "@uid": "03",
+      "name": "kavitha",
+      "phone": "9345788767",
+      "alternate_no": "9870543010",
+      "address": {
+         "street": "roja street",
+         "city": "gandhipuram",
+         "state": "coimbatore"
+      },
+      "location": "Coimbatore",
+      "email": "kavitha@gmail.com"
+   },
+   {
+      "@uid": "04",
+      "name": "anu",
+      "phone": "9345546879",
+      "alternate_no": "9876547210",
+      "address": {
+         "street": "kamaraj street",
+         "city": "thiruparankuram",
+         "state": "madurai"
+      },
+      "location": "Madurai",
+      "email": "anu@gmail.com"
+   },
+   {
+      "@uid": "05",
+      "name": "illiyana",
+      "phone": "9478782999",
+      "alternate_no": "9896543210",
+      "address": {
+         "street": "gandhi street",
+         "city": "x Road",
+         "state": "Erode"
+      },
+      "location": "Erode",
+      "email": "illi@gmail.com"
+   },
+   {
+      "@uid": "06",
+      "name": "mani",
+      "phone": "957889475",
+      "alternate_no": "9886543210",
+      "address": {
+         "street": "raj street",
+         "city": "thiruvanandhapuram",
+         "state": "thiruvanandhapuram"
+      },
+      "location": "thiruvanandhapuram",
+      "email": "mani@gmail.com"
+   }
+]
