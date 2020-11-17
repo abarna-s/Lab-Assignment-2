@@ -1,0 +1,42 @@
+[
+   {
+      "name": "T-shirt",
+      "color": "Red",
+      "toprint": "Dharshi",
+      "price": "₹ 100",
+      "quantity": "2 pieces",
+      "Total": "₹ 200"
+   },
+   {
+      "name": "Coffee mug",
+      "color": "Black",
+      "toprint": "Kalai",
+      "price": "₹ 350",
+      "quantity": "1 piece",
+      "Total": "₹ 350"
+   },
+   {
+      "name": "WaterBottle",
+      "color": "Black",
+      "toprint": "Siva",
+      "price": "₹ 190",
+      "quantity": "1 piece",
+      "Total": "₹ 190"
+   },
+   {
+      "name": "Mobile case",
+      "color": "Green",
+      "toprint": "Mom and Dad",
+      "price": "₹ 300",
+      "quantity": "2 pieces",
+      "Total": "₹ 600"
+   },
+   {
+      "name": "Keychains",
+      "color": "Blue",
+      "toprint": "Be Happy",
+      "price": "₹ 54",
+      "quantity": "5 pieces",
+      "Total": "₹ 270"
+   }
+]

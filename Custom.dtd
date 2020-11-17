@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT billing (items+)>
+<!ELEMENT items (name,color,toprint,price,quantity,total)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT toprint (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT total (#PCDATA)>

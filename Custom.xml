@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Custom.xsl" type="text/xsl" ?>
+<billing>
+<items>
+<name>T-shirt</name>
+<color>Red</color>
+<toprint> Dharshi </toprint>
+<price>₹ 100 </price>
+<quantity>2 pieces</quantity>
+<Total>₹ 200 </Total>
+</items>
+
+<items>
+<name>Coffee mug</name>
+<color>Black</color>
+<toprint> Kalai </toprint>
+<price>₹ 350</price>
+<quantity>1 piece</quantity>
+<Total>₹ 350</Total>
+</items>
+
+<items>
+<name>WaterBottle</name>
+<color>Black</color>
+<toprint> Siva </toprint>
+<price>₹ 190 </price>
+<quantity>1 piece</quantity>
+<Total>₹ 190 </Total>
+</items>
+
+<items>
+<name>Mobile case</name>
+<color>Green</color>
+<toprint> Mom and Dad </toprint>
+<price>₹ 300 </price>
+<quantity>2 pieces</quantity>
+<Total>₹ 600 </Total>
+</items>
+
+<items>
+<name>Keychains</name>
+<color>Blue</color>
+<toprint> Be Happy</toprint>
+<price>₹ 54 </price>
+<quantity>5 pieces</quantity>
+<Total>₹ 270 </Total>
+</items>
+
+</billing>
